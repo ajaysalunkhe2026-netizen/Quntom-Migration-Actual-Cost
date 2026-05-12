@@ -42,3 +42,5 @@ chart_data = pd.DataFrame({
 })
 
 st.line_chart(chart_data)
+st.metric("Before Optimization", "$120")
+st.metric("After Optimization", "$85")
