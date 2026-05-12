@@ -67,3 +67,40 @@ Monitoring Layer → Optimization Engine → Migration Engine → Cost Analysis
 - Multi-node migration simulation
 - Resource-aware optimization
 - Quantum-inspired evaluation models
+## Architecture
+
+Dummy Files
+   ↓
+Migration Engine
+   ↓
+Monitoring System
+   ↓
+Optimization Logic
+   ↓
+Cost Analysis Dashboard
+
+
+## Monitoring Features
+
+- CPU Monitoring
+- RAM Monitoring
+- Disk Monitoring
+- Real-time Dashboard
+- Migration Metrics
+- Cost Optimization Tracking
+
+
+## Experimental Results
+
+- Migration Simulation Successful
+- Real-time Monitoring Active
+- Optimization Metrics Generated
+- Dashboard Visualization Working
+
+
+## Future Scope
+
+- AI-based optimization
+- Multi-node migration simulation
+- Resource-aware scheduling
+- Advanced analytics dashboard
